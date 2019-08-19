@@ -1,2 +1,2 @@
 # chat-app
-A chat app similar to Slack
+A simple chat app similar to Slack. 
